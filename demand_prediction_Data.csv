@@ -1,0 +1,385 @@
+ride_id,seat_number,travel_date,travel_time,travel_from,travel_to,car_type,max_capacity,travel_from_to
+1234,12,2/20/2024,8:00,Mumbai,Delhi,bus,50,Mumbai to Delhi
+5678,28,2/22/2024,10:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+3456,18,2/26/2024,12:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+7890,25,2/28/2024,14:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6789,38,3/3/2024,16:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1239,22,3/5/2024,18:00,Ahmedabad,Delhi,shuttle,30,Ahmedabad to Delhi
+4567,35,3/7/2024,20:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+2345,15,2/24/2024,9:00,Chennai,Delhi,bus,50,Chennai to Delhi
+6781,20,2/21/2024,11:00,Mumbai,Delhi,shuttle,30,Mumbai to Delhi
+9012,42,2/25/2024,13:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+3459,29,2/27/2024,15:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+7893,32,2/29/2024,17:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6785,11,3/4/2024,19:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1231,44,3/6/2024,21:00,Ahmedabad,Delhi,shuttle,30,Ahmedabad to Delhi
+4562,49,3/8/2024,22:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+2348,7,3/10/2024,23:00,Chennai,Delhi,bus,50,Chennai to Delhi
+6788,40,3/12/2024,0:00,Mumbai,Delhi,shuttle,30,Mumbai to Delhi
+9015,16,3/14/2024,1:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+3462,23,3/16/2024,2:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+7896,36,3/18/2024,3:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6789,48,3/20/2024,4:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1234,1,3/22/2024,5:00,Ahmedabad,Delhi,shuttle,30,Ahmedabad to Delhi
+4567,34,3/24/2024,6:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+2345,41,3/26/2024,7:00,Chennai,Delhi,bus,50,Chennai to Delhi
+6781,13,3/28/2024,8:00,Mumbai,Delhi,shuttle,30,Mumbai to Delhi
+9012,46,3/30/2024,9:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+3459,24,4/1/2024,10:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+7893,31,4/3/2024,11:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6785,17,4/5/2024,12:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1231,19,4/7/2024,13:00,Ahmedabad,Delhi,shuttle,30,Ahmedabad to Delhi
+4562,27,4/9/2024,14:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+2348,9,4/11/2024,15:00,Chennai,Delhi,bus,50,Chennai to Delhi
+6788,43,4/13/2024,16:00,Mumbai,Delhi,shuttle,30,Mumbai to Delhi
+9015,8,4/15/2024,17:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+3462,50,4/17/2024,18:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+7896,39,4/19/2024,19:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6789,10,4/21/2024,20:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1234,3,4/23/2024,21:00,Ahmedabad,Delhi,shuttle,30,Ahmedabad to Delhi
+4567,45,4/25/2024,22:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+2345,26,4/27/2024,23:00,Chennai,Delhi,bus,50,Chennai to Delhi
+1247,42,5/1/2024,8:00,Pune,Delhi,bus,50,Pune to Delhi
+9876,20,5/3/2024,9:00,Nagpur,Delhi,shuttle,30,Nagpur to Delhi
+6543,34,5/5/2024,10:00,Coimbatore,Delhi,bus,50,Coimbatore to Delhi
+2198,48,5/7/2024,11:00,Vadodara,Delhi,shuttle,30,Vadodara to Delhi
+7531,13,5/9/2024,12:00,Bhopal,Delhi,bus,50,Bhopal to Delhi
+9011,22,5/11/2024,13:00,Kochi,Delhi,shuttle,30,Kochi to Delhi
+3456,36,5/13/2024,14:00,Surat,Delhi,bus,50,Surat to Delhi
+7894,49,5/15/2024,15:00,Raipur,Delhi,shuttle,30,Raipur to Delhi
+6786,23,5/17/2024,16:00,Visakhapatnam,Delhi,bus,50,Visakhapatnam to Delhi
+1232,11,5/19/2024,17:00,Tiruchirappalli,Delhi,shuttle,30,Tiruchirappalli to Delhi
+4563,40,5/21/2024,18:00,Mysuru,Delhi,bus,50,Mysuru to Delhi
+2349,5,5/23/2024,19:00,Indore,Delhi,shuttle,30,Indore to Delhi
+6789,25,5/25/2024,20:00,Bhubaneswar,Delhi,bus,50,Bhubaneswar to Delhi
+9014,16,5/27/2024,21:00,Patna,Delhi,shuttle,30,Patna to Delhi
+3463,38,5/29/2024,22:00,Ranchi,Delhi,bus,50,Ranchi to Delhi
+7897,32,5/31/2024,23:00,Guwahati,Delhi,shuttle,30,Guwahati to Delhi
+6786,29,6/2/2024,0:00,Srinagar,Delhi,bus,50,Srinagar to Delhi
+1235,4,6/4/2024,1:00,Dehradun,Delhi,shuttle,30,Dehradun to Delhi
+4568,1,6/6/2024,2:00,Shimla,Delhi,bus,50,Shimla to Delhi
+2346,6,6/8/2024,3:00,Udaipur,Delhi,shuttle,30,Udaipur to Delhi
+6789,12,6/10/2024,4:00,Agra,Delhi,bus,50,Agra to Delhi
+9015,18,6/12/2024,5:00,Jaipur,Delhi,shuttle,30,Jaipur to Delhi
+3464,47,6/14/2024,6:00,Kanpur,Delhi,bus,50,Kanpur to Delhi
+7898,33,6/16/2024,7:00,Varanasi,Delhi,shuttle,30,Varanasi to Delhi
+6787,41,6/18/2024,8:00,Gorakhpur,Delhi,bus,50,Gorakhpur to Delhi
+1236,44,6/20/2024,9:00,Lucknow,Delhi,shuttle,30,Lucknow to Delhi
+4569,14,6/22/2024,10:00,Amaravati,Delhi,bus,50,Amaravati to Delhi
+2347,28,6/24/2024,11:00,Bhubaneswar,Delhi,shuttle,30,Bhubaneswar to Delhi
+6788,35,6/26/2024,12:00,Mumbai,Delhi,bus,50,Mumbai to Delhi
+9016,7,6/28/2024,13:00,Hyderabad,Delhi,shuttle,30,Hyderabad to Delhi
+3465,2,6/30/2024,14:00,Chennai,Delhi,bus,50,Chennai to Delhi
+7899,15,7/2/2024,15:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+9876,10,7/4/2024,16:00,Lucknow,Delhi,bus,50,Lucknow to Delhi
+1238,29,7/6/2024,17:00,Mumbai,Delhi,shuttle,30,Mumbai to Delhi
+4567,3,7/8/2024,18:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+2348,40,7/10/2024,19:00,Chennai,Delhi,shuttle,30,Chennai to Delhi
+6789,48,7/12/2024,20:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+9017,17,7/14/2024,21:00,Bhubaneswar,Delhi,shuttle,30,Bhubaneswar to Delhi
+3466,25,7/16/2024,22:00,Amaravati,Delhi,bus,50,Amaravati to Delhi
+7890,20,7/18/2024,23:00,Gorakhpur,Delhi,shuttle,30,Gorakhpur to Delhi
+1239,42,7/20/2024,0:00,Varanasi,Delhi,bus,50,Varanasi to Delhi
+4568,8,7/22/2024,1:00,Udaipur,Delhi,shuttle,30,Udaipur to Delhi
+2349,49,7/24/2024,2:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+6780,22,7/26/2024,3:00,Agra,Delhi,shuttle,30,Agra to Delhi
+9018,38,7/28/2024,4:00,Shimla,Delhi,bus,50,Shimla to Delhi
+3467,11,7/30/2024,5:00,Kanpur,Delhi,shuttle,30,Kanpur to Delhi
+7891,26,8/1/2024,6:00,Dehradun,Delhi,bus,50,Dehradun to Delhi
+1231,19,8/3/2024,7:00,Lucknow,Delhi,shuttle,30,Lucknow to Delhi
+4562,45,8/5/2024,8:00,Mumbai,Delhi,bus,50,Mumbai to Delhi
+2342,32,8/7/2024,9:00,Hyderabad,Delhi,shuttle,30,Hyderabad to Delhi
+6781,46,8/9/2024,10:00,Chennai,Delhi,bus,50,Chennai to Delhi
+9019,9,8/11/2024,11:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+3468,24,8/13/2024,12:00,Bhubaneswar,Delhi,bus,50,Bhubaneswar to Delhi
+7892,13,8/15/2024,13:00,Amaravati,Delhi,shuttle,30,Amaravati to Delhi
+1232,31,8/17/2024,14:00,Gorakhpur,Delhi,bus,50,Gorakhpur to Delhi
+4563,16,8/19/2024,15:00,Varanasi,Delhi,shuttle,30,Varanasi to Delhi
+2343,23,8/21/2024,16:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+6782,27,8/23/2024,17:00,Agra,Delhi,shuttle,30,Agra to Delhi
+9020,36,8/25/2024,18:00,Shimla,Delhi,bus,50,Shimla to Delhi
+3469,5,8/27/2024,19:00,Kanpur,Delhi,shuttle,30,Kanpur to Delhi
+1001,17,3/16/2024,14:30,Mumbai,Delhi,bus,50,Mumbai to Delhi
+2002,29,4/17/2024,8:45,Chennai,Delhi,shuttle,30,Chennai to Delhi
+3003,41,5/18/2024,10:15,Kolkata,Delhi,bus,50,Kolkata to Delhi
+4004,5,6/19/2024,12:00,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+5005,23,7/20/2024,14:00,Hyderabad,Delhi,bus,50,Hyderabad to Delhi
+6006,39,8/21/2024,8:30,Pune,Delhi,shuttle,30,Pune to Delhi
+7007,47,9/22/2024,10:45,Ahmedabad,Delhi,bus,50,Ahmedabad to Delhi
+8008,14,10/23/2024,12:15,Jaipur,Delhi,shuttle,30,Jaipur to Delhi
+9009,31,11/24/2024,14:45,Lucknow,Delhi,bus,50,Lucknow to Delhi
+10010,22,12/25/2024,9:00,Coimbatore,Delhi,bus,50,Coimbatore to Delhi
+20011,19,1/26/2025,11:15,Surat,Delhi,shuttle,30,Surat to Delhi
+30012,42,2/27/2025,13:30,Indore,Delhi,bus,50,Indore to Delhi
+40013,7,3/28/2025,15:45,Nagpur,Delhi,shuttle,30,Nagpur to Delhi
+50014,25,4/29/2025,10:00,Vijayawada,Delhi,bus,50,Vijayawada to Delhi
+60015,37,5/30/2025,12:15,Kochi,Delhi,shuttle,30,Kochi to Delhi
+70016,46,31/6/2025,14:30,Visakhapatnam,Delhi,bus,50,Visakhapatnam to Delhi
+80017,16,7/1/2025,8:45,Bhopal,Delhi,shuttle,30,Bhopal to Delhi
+90018,34,8/2/2025,11:00,Patna,Delhi,bus,50,Patna to Delhi
+10019,21,9/3/2025,13:15,Raipur,Delhi,shuttle,30,Raipur to Delhi
+20020,49,10/4/2025,15:30,Guwahati,Delhi,bus,50,Guwahati to Delhi
+30021,9,11/5/2025,9:45,Agra,Delhi,shuttle,30,Agra to Delhi
+40022,32,12/6/2025,12:00,Jodhpur,Delhi,bus,50,Jodhpur to Delhi
+50023,26,1/7/2026,14:15,Udaipur,Delhi,shuttle,30,Udaipur to Delhi
+60024,38,2/8/2026,10:30,Srinagar,Delhi,bus,50,Srinagar to Delhi
+70025,48,3/9/2026,13:45,Dehradun,Delhi,shuttle,30,Dehradun to Delhi
+80026,13,4/10/2026,16:00,Gangtok,Delhi,bus,50,Gangtok to Delhi
+90027,35,5/11/2026,18:15,Shimla,Delhi,shuttle,30,Shimla to Delhi
+10028,40,6/12/2026,20:30,Chandigarh,Delhi,bus,50,Chandigarh to Delhi
+20029,1,7/13/2026,22:45,Mysore,Delhi,shuttle,30,Mysore to Delhi
+30030,20,8/14/2026,1:00,Warangal,Delhi,bus,50,Warangal to Delhi
+40031,44,9/15/2026,3:15,Kurnool,Delhi,shuttle,30,Kurnool to Delhi
+50032,6,10/16/2026,5:30,Bellary,Delhi,bus,50,Bellary to Delhi
+60033,33,11/17/2026,7:45,Cuddapah,Delhi,shuttle,30,Cuddapah to Delhi
+70034,45,12/18/2026,10:00,Rajahmundry,Delhi,bus,50,Rajahmundry to Delhi
+80035,10,1/19/2027,12:15,Nellore,Delhi,shuttle,30,Nellore to Delhi
+90036,24,2/20/2027,14:30,Kakinada,Delhi,bus,50,Kakinada to Delhi
+10037,15,3/21/2027,16:45,Tirupati,Delhi,shuttle,30,Tirupati to Delhi
+20038,50,4/22/2027,19:00,Vizianagaram,Delhi,bus,50,Vizianagaram to Delhi
+30039,3,5/23/2027,21:15,Ongole,Delhi,shuttle,30,Ongole to Delhi
+40040,27,6/24/2027,23:30,Puttaparthi,Delhi,bus,50,Puttaparthi to Delhi
+50041,4,7/25/2027,2:45,Anantapur,Delhi,shuttle,30,Anantapur to Delhi
+11048,8,8/26/2027,4:00,Visakhapatnam,Delhi,bus,50,Visakhapatnam to Delhi
+12049,11,9/27/2027,5:15,Bhimavaram,Delhi,shuttle,30,Bhimavaram to Delhi
+13050,22,10/28/2027,6:30,Eluru,Delhi,bus,50,Eluru to Delhi
+14051,5,11/29/2027,7:45,Rajahmundry,Delhi,shuttle,30,Rajahmundry to Delhi
+15052,41,12/30/2027,9:00,Tadepalligudem,Delhi,bus,50,Tadepalligudem to Delhi
+16053,14,1/31/2028,10:15,Narasaraopet,Delhi,shuttle,30,Narasaraopet to Delhi
+17054,18,2/1/2028,11:30,Vinukonda,Delhi,bus,50,Vinukonda to Delhi
+18055,31,3/2/2028,12:45,Guntur,Delhi,shuttle,30,Guntur to Delhi
+19056,48,4/3/2028,14:00,Bapatla,Delhi,bus,50,Bapatla to Delhi
+20057,23,5/4/2028,15:15,Tenali,Delhi,shuttle,30,Tenali to Delhi
+21058,35,6/5/2028,16:30,Machilipatnam,Delhi,bus,50,Machilipatnam to Delhi
+22059,46,7/6/2028,17:45,Nuzvid,Delhi,shuttle,30,Nuzvid to Delhi
+23060,17,8/7/2028,19:00,Bandar,Delhi,bus,50,Bandar to Delhi
+24061,2,9/8/2028,20:15,Vijayawada,Delhi,shuttle,30,Vijayawada to Delhi
+25062,42,10/9/2028,21:30,Gudivada,Delhi,bus,50,Gudivada to Delhi
+26063,13,11/10/2028,22:45,Machavaram,Delhi,shuttle,30,Machavaram to Delhi
+27064,38,12/11/2028,0:00,Repalle,Delhi,bus,50,Repalle to Delhi
+28065,34,1/12/2029,1:15,Peanur,Delhi,shuttle,30,Peanur to Delhi
+29066,25,2/13/2029,2:30,Chintaparru,Delhi,bus,50,Chintaparru to Delhi
+30067,29,3/14/2029,3:45,Talacheru,Delhi,shuttle,30,Talacheru to Delhi
+31068,49,4/15/2029,5:00,Bhadrachalam,Delhi,bus,50,Bhadrachalam to Delhi
+32069,21,5/16/2029,6:15,Yellandu,Delhi,shuttle,30,Yellandu to Delhi
+33070,37,6/17/2029,7:30,Kothagudem,Delhi,bus,50,Kothagudem to Delhi
+34071,9,7/18/2029,8:45,Sattupalli,Delhi,shuttle,30,Sattupalli to Delhi
+35072,45,8/19/2029,10:00,Palwancha,Delhi,bus,50,Palwancha to Delhi
+36073,16,9/20/2029,11:15,Khammam,Delhi,shuttle,30,Khammam to Delhi
+37074,28,10/21/2029,12:30,Rajahmundry,Delhi,bus,50,Rajahmundry to Delhi
+38075,12,11/22/2029,13:45,Mysore,Delhi,shuttle,30,Mysore to Delhi
+39076,40,12/23/2029,15:00,Hindupur,Delhi,bus,50,Hindupur to Delhi
+40077,7,1/24/2030,16:15,Madanapalle,Delhi,shuttle,30,Madanapalle to Delhi
+41078,32,2/25/2030,17:30,Chittoor,Delhi,bus,50,Chittoor to Delhi
+42079,1,3/26/2030,18:45,Bangalore,Delhi,shuttle,30,Bangalore to Delhi
+40080,18,4/27/2030,19:00,Chennai,Delhi,bus,50,Chennai to Delhi
+41081,23,5/28/2030,20:15,Mangalore,Delhi,shuttle,30,Mangalore to Delhi
+42082,38,6/29/2030,21:30,Pune,Delhi,bus,50,Pune to Delhi
+43083,11,7/30/2030,22:45,Nagpur,Delhi,shuttle,30,Nagpur to Delhi
+44084,48,8/31/2030,0:00,Kolkata,Delhi,bus,50,Kolkata to Delhi
+45085,19,9/1/2030,1:15,Bhubaneswar,Delhi,shuttle,30,Bhubaneswar to Delhi
+46086,33,10/2/2030,2:30,Patna,Delhi,bus,50,Patna to Delhi
+47087,4,11/3/2030,3:45,Lucknow,Delhi,shuttle,30,Lucknow to Delhi
+48088,42,12/4/2030,5:00,Jaipur,Delhi,bus,50,Jaipur to Delhi
+49089,13,1/5/2031,6:15,Agra,Delhi,shuttle,30,Agra to Delhi
+50090,34,2/6/2031,7:30,Mathura,Delhi,bus,50,Mathura to Delhi
+1234,20,2/16/2024,8:45,Mumbai,Delhi,bus,50,Mumbai-Delhi
+6789,18,2/17/2024,10:10,Bangalore,Delhi,shuttle,30,Bangalore-Delhi
+3456,22,2/18/2024,9:20,Chennai,Delhi,bus,50,Chennai-Delhi
+9012,25,2/19/2024,11:00,Kolkata,Delhi,shuttle,30,Kolkata-Delhi
+7890,19,2/20/2024,8:00,Hyderabad,Delhi,bus,50,Hyderabad-Delhi
+4567,21,2/21/2024,10:30,Lucknow,Delhi,shuttle,30,Lucknow-Delhi
+2345,24,2/22/2024,9:40,Ahmedabad,Delhi,bus,50,Ahmedabad-Delhi
+1357,26,2/23/2024,11:15,Jaipur,Delhi,shuttle,30,Jaipur-Delhi
+9876,23,2/24/2024,8:25,Indore,Delhi,bus,50,Indore-Delhi
+2143,29,2/25/2024,10:50,Bhopal,Delhi,bus,50,Bhopal-Delhi
+4211,15,2/26/2024,9:00,Nagpur,Delhi,shuttle,30,Nagpur-Delhi
+5432,32,2/27/2024,11:35,Pune,Delhi,bus,50,Pune-Delhi
+1188,11,2/28/2024,8:10,Coimbatore,Delhi,shuttle,30,Coimbatore-Delhi
+7654,38,3/1/2024,10:05,Visakhapatnam,Delhi,bus,50,Visakhapatnam-Delhi
+9393,16,3/2/2024,9:30,Tiruchirappalli,Delhi,shuttle,30,Tiruchirappalli-Delhi
+2342,42,3/3/2024,11:20,Mysuru,Delhi,bus,50,Mysuru-Delhi
+1567,27,3/4/2024,8:40,Surat,Delhi,shuttle,30,Surat-Delhi
+7432,48,3/5/2024,10:15,Vijayawada,Delhi,bus,50,Vijayawada-Delhi
+9879,19,3/6/2024,9:50,Kochi,Delhi,shuttle,30,Kochi-Delhi
+3211,31,3/7/2024,11:45,Guwahati,Delhi,bus,50,Guwahati-Delhi
+1456,40,3/8/2024,8:20,Bhubaneswar,Delhi,shuttle,30,Bhubaneswar-Delhi
+8523,45,3/9/2024,10:30,Patna,Delhi,bus,50,Patna-Delhi
+6789,13,3/10/2024,9:15,Raipur,Delhi,shuttle,30,Raipur-Delhi
+3456,28,3/11/2024,11:10,Agra,Delhi,bus,50,Agra-Delhi
+9012,22,3/12/2024,8:35,Varanasi,Delhi,shuttle,30,Varanasi-Delhi
+7890,36,3/13/2024,10:50,Dehradun,Delhi,bus,50,Dehradun-Delhi
+4567,17,3/14/2024,9:45,Ghaziabad,Delhi,shuttle,30,Ghaziabad-Delhi
+2345,39,3/15/2024,11:25,Uttar Pradesh,Delhi,bus,50,Uttar Pradesh-Delhi
+1357,25,3/16/2024,8:00,Ranchi,Delhi,shuttle,30,Ranchi-Delhi
+9876,49,3/17/2024,10:05,Jabalpur,Delhi,bus,50,Jabalpur-Delhi
+2143,14,3/18/2024,9:20,Muzaffarpur,Delhi,shuttle,30,Muzaffarpur-Delhi
+4211,41,3/19/2024,11:40,Jamshedpur,Delhi,bus,50,Jamshedpur-Delhi
+5432,35,3/20/2024,8:30,Patiala,Delhi,shuttle,30,Patiala-Delhi
+1188,46,3/21/2024,10:45,Amritsar,Delhi,bus,50,Amritsar-Delhi
+7654,20,3/22/2024,9:10,Firozabad,Delhi,shuttle,30,Firozabad-Delhi
+9393,43,3/23/2024,11:50,Aurangabad,Delhi,bus,50,Aurangabad-Delhi
+2342,18,3/24/2024,8:45,Durgapur,Delhi,shuttle,30,Durgapur-Delhi
+1567,47,3/25/2024,10:10,Srinagar,Delhi,bus,50,Srinagar-Delhi
+7432,33,3/26/2024,9:35,Rajkot,Delhi,shuttle,30,Rajkot-Delhi
+9879,44,3/27/2024,11:30,Bharuch,Delhi,bus,50,Bharuch-Delhi
+1111,22,3/28/2024,8:50,Nagpur,Delhi,shuttle,30,Nagpur-Delhi
+2889,29,3/29/2024,10:20,Kanpur,Delhi,bus,50,Kanpur-Delhi
+4218,11,3/30/2024,9:00,Lucknow,Delhi,shuttle,30,Lucknow-Delhi
+1182,38,3/31/2024,11:45,Bhopal,Delhi,bus,50,Bhopal-Delhi
+2345,31,4/1/2024,8:20,Patna,Delhi,shuttle,30,Patna-Delhi
+9876,42,4/2/2024,10:40,Jaipur,Delhi,bus,50,Jaipur-Delhi
+4211,26,4/3/2024,9:25,Ahmedabad,Delhi,shuttle,30,Ahmedabad-Delhi
+5432,15,4/4/2024,11:10,Chennai,Delhi,bus,50,Chennai-Delhi
+1188,49,4/5/2024,8:40,Hyderabad,Delhi,shuttle,30,Hyderabad-Delhi
+7654,24,4/6/2024,10:00,Kolkata,Delhi,bus,50,Kolkata-Delhi
+9393,48,4/7/2024,9:50,Mumbai,Delhi,shuttle,30,Mumbai-Delhi
+2342,37,4/8/2024,11:35,Bangalore,Delhi,bus,50,Bangalore-Delhi
+1567,23,4/9/2024,8:15,Coimbatore,Delhi,shuttle,30,Coimbatore-Delhi
+7432,13,4/10/2024,10:25,Pune,Delhi,bus,50,Pune-Delhi
+9879,45,4/11/2024,9:35,Surat,Delhi,shuttle,30,Surat-Delhi
+1111,16,4/12/2024,11:00,Lucknow,Delhi,bus,50,Lucknow-Delhi
+2889,40,4/13/2024,8:50,Nagpur,Delhi,shuttle,30,Nagpur-Delhi
+4218,32,4/14/2024,10:20,Kanpur,Delhi,bus,50,Kanpur-Delhi
+1182,27,4/15/2024,9:05,Bhopal,Delhi,shuttle,30,Bhopal-Delhi
+2345,19,4/16/2024,11:40,Patna,Delhi,bus,50,Patna-Delhi
+9876,28,4/17/2024,8:25,Jaipur,Delhi,shuttle,30,Jaipur-Delhi
+4211,36,4/18/2024,10:45,Ahmedabad,Delhi,bus,50,Ahmedabad-Delhi
+5432,25,4/19/2024,9:20,Chennai,Delhi,shuttle,30,Chennai-Delhi
+1188,34,4/20/2024,11:15,Hyderabad,Delhi,bus,50,Hyderabad-Delhi
+7654,21,4/21/2024,8:45,Kolkata,Delhi,shuttle,30,Kolkata-Delhi
+9393,39,4/22/2024,10:05,Mumbai,Delhi,bus,50,Mumbai-Delhi
+2342,12,4/23/2024,9:55,Bangalore,Delhi,shuttle,30,Bangalore-Delhi
+1567,44,4/24/2024,11:25,Coimbatore,Delhi,bus,50,Coimbatore-Delhi
+7432,18,4/25/2024,8:15,Pune,Delhi,shuttle,30,Pune-Delhi
+9879,33,4/26/2024,10:35,Surat,Delhi,bus,50,Surat-Delhi
+1111,46,4/27/2024,9:45,Lucknow,Delhi,shuttle,30,Lucknow-Delhi
+2889,50,4/28/2024,11:10,Nagpur,Delhi,bus,50,Nagpur-Delhi
+1112,22,4/29/2024,8:50,Agra,Delhi,shuttle,30,Agra-Delhi
+2222,38,4/30/2024,10:40,Varanasi,Delhi,bus,50,Varanasi-Delhi
+3344,29,5/1/2024,9:30,Udaipur,Delhi,shuttle,30,Udaipur-Delhi
+4444,41,5/2/2024,11:20,Gwalior,Delhi,bus,50,Gwalior-Delhi
+5555,24,5/3/2024,8:20,Indore,Delhi,shuttle,30,Indore-Delhi
+6666,35,5/4/2024,10:50,Vadodara,Delhi,bus,50,Vadodara-Delhi
+7777,26,5/5/2024,9:15,Amritsar,Delhi,shuttle,30,Amritsar-Delhi
+8888,42,5/6/2024,11:45,Kanpur,Delhi,bus,50,Kanpur-Delhi
+9999,23,5/7/2024,8:35,Ranchi,Delhi,shuttle,30,Ranchi-Delhi
+1000,49,5/8/2024,10:55,Bhubaneswar,Delhi,bus,50,Bhubaneswar-Delhi
+1001,20,5/9/2024,9:50,Dehradun,Delhi,shuttle,30,Dehradun-Delhi
+1002,48,5/10/2024,11:35,Noida,Delhi,bus,50,Noida-Delhi
+1003,17,5/11/2024,8:45,Ghaziabad,Delhi,shuttle,30,Ghaziabad-Delhi
+1004,45,5/12/2024,10:45,Faridabad,Delhi,bus,50,Faridabad-Delhi
+1005,16,5/13/2024,9:25,Meerut,Delhi,shuttle,30,Meerut-Delhi
+1006,47,5/14/2024,11:25,Haryana,Delhi,bus,50,Haryana-Delhi
+1007,14,5/15/2024,8:15,Sikar,Delhi,shuttle,30,Sikar-Delhi
+1008,43,5/16/2024,10:40,Ajmer,Delhi,bus,50,Ajmer-Delhi
+1009,13,5/17/2024,9:35,Bikaner,Delhi,shuttle,30,Bikaner-Delhi
+1010,51,5/18/2024,11:20,Jodhpur,Delhi,bus,50,Jodhpur-Delhi
+1011,15,5/19/2024,8:40,Jaisalmer,Delhi,shuttle,30,Jaisalmer-Delhi
+1012,40,5/20/2024,10:50,Sawai Madhopur,Delhi,bus,50,Sawai Madhopur-Delhi
+1013,11,5/21/2024,9:40,Chittorgarh,Delhi,shuttle,30,Chittorgarh-Delhi
+1014,32,5/22/2024,11:00,Dausa,Delhi,bus,50,Dausa-Delhi
+1015,10,5/23/2024,8:30,Tonk,Delhi,shuttle,30,Tonk-Delhi
+1016,37,5/24/2024,10:10,Bhilwara,Delhi,bus,50,Bhilwara-Delhi
+1017,9,5/25/2024,9:45,Kota,Delhi,shuttle,30,Kota-Delhi
+1018,31,5/26/2024,11:15,Sikar,Delhi,bus,50,Sikar-Delhi
+1234,45,3/16/2024,8:00:00,New Delhi,Mumbai,bus,50,New Delhi to Mumbai
+5678,27,3/17/2024,9:00:00,Bangalore,New Delhi,shuttle,30,Bangalore to New Delhi
+9012,20,3/18/2024,10:00:00,Hyderabad,New Delhi,bus,50,Hyderabad to New Delhi
+1111,40,3/19/2024,11:00:00,Kolkata,Mumbai,shuttle,30,Kolkata to Mumbai
+3333,35,3/20/2024,12:00:00,New Delhi,Bangalore,bus,50,New Delhi to Bangalore
+4444,25,3/21/2024,13:00:00,Mumbai,Hyderabad,shuttle,30,Mumbai to Hyderabad
+5555,48,3/22/2024,14:00:00,New Delhi,Kolkata,bus,50,New Delhi to Kolkata
+6666,22,3/23/2024,15:00:00,Bangalore,Mumbai,shuttle,30,Bangalore to Mumbai
+7777,32,3/24/2024,16:00:00,Hyderabad,New Delhi,bus,50,Hyderabad to New Delhi
+8888,38,3/25/2024,17:00:00,Kolkata,Bangalore,shuttle,30,Kolkata to Bangalore
+9999,46,3/26/2024,18:00:00,New Delhi,Hyderabad,bus,50,New Delhi to Hyderabad
+1239,29,3/27/2024,19:00:00,Mumbai,Kolkata,shuttle,30,Mumbai to Kolkata
+1241,49,3/28/2024,20:00:00,Bangalore,New Delhi,bus,50,Bangalore to New Delhi
+1242,18,3/29/2024,21:00:00,Hyderabad,Mumbai,shuttle,30,Hyderabad to Mumbai
+1243,42,3/30/2024,22:00:00,Kolkata,Bangalore,bus,50,Kolkata to Bangalore
+1244,31,3/31/2024,23:00:00,New Delhi,Hyderabad,shuttle,30,New Delhi to Hyderabad
+1245,39,4/1/2024,0:00:00,Mumbai,Kolkata,bus,50,Mumbai to Kolkata
+1246,44,4/2/2024,1:00:00,Bangalore,New Delhi,shuttle,30,Bangalore to New Delhi
+1247,23,4/3/2024,2:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1248,41,4/4/2024,3:00:00,Kolkata,Bangalore,shuttle,30,Kolkata to Bangalore
+1249,33,4/5/2024,4:00:00,New Delhi,Hyderabad,bus,50,New Delhi to Hyderabad
+1250,28,4/6/2024,5:00:00,Mumbai,Kolkata,shuttle,30,Mumbai to Kolkata
+1251,35,4/7/2024,6:00:00,Bangalore,New Delhi,bus,50,Bangalore to New Delhi
+1252,24,4/8/2024,7:00:00,Hyderabad,Mumbai,shuttle,30,Hyderabad to Mumbai
+1253,47,4/9/2024,8:00:00,Kolkata,Bangalore,bus,50,Kolkata to Bangalore
+1254,10,4/10/2024,9:00:00,Mumbai,Kolkata,bus,50,Mumbai to Kolkata
+1255,22,4/11/2024,10:00:00,Delhi,Bangalore,shuttle,30,Delhi to Bangalore
+1256,48,4/12/2024,11:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1257,14,4/13/2024,12:00:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+1258,32,4/14/2024,13:00:00,New Delhi,Hyderabad,bus,50,New Delhi to Hyderabad
+1259,25,4/15/2024,14:00:00,Mumbai,Kolkata,shuttle,30,Mumbai to Kolkata
+1260,38,4/16/2024,15:00:00,Bangalore,Delhi,bus,50,Bangalore to Delhi
+1261,16,4/17/2024,16:00:00,Hyderabad,Mumbai,shuttle,30,Hyderabad to Mumbai
+1262,45,4/18/2024,17:00:00,Kolkata,Bangalore,bus,50,Kolkata to Bangalore
+1263,7,4/19/2024,18:00:00,New Delhi,Hyderabad,shuttle,30,New Delhi to Hyderabad
+1264,50,4/20/2024,19:00:00,Mumbai,Kolkata,bus,50,Mumbai to Kolkata
+1265,11,4/21/2024,20:00:00,Delhi,Bangalore,shuttle,30,Delhi to Bangalore
+1266,43,4/22/2024,21:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1267,20,4/23/2024,22:00:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+1268,34,4/24/2024,23:00:00,New Delhi,Hyderabad,bus,50,New Delhi to Hyderabad
+1269,5,4/25/2024,0:00:00,Mumbai,Kolkata,shuttle,30,Mumbai to Kolkata
+1270,40,4/26/2024,1:00:00,Bangalore,Delhi,bus,50,Bangalore to Delhi
+1271,26,4/27/2024,2:00:00,Hyderabad,Mumbai,shuttle,30,Hyderabad to Mumbai
+1272,17,4/28/2024,3:00:00,Kolkata,Bangalore,bus,50,Kolkata to Bangalore
+1273,46,4/29/2024,4:00:00,New Delhi,Hyderabad,shuttle,30,New Delhi to Hyderabad
+1274,4,4/30/2024,5:00:00,Mumbai,Kolkata,bus,50,Mumbai to Kolkata
+1275,13,5/1/2024,6:00:00,Delhi,Bangalore,shuttle,30,Delhi to Bangalore
+1276,36,5/2/2024,7:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1277,8,5/3/2024,8:00:00,Kolkata,Bangalore,shuttle,30,Kolkata to Bangalore
+1278,19,5/4/2024,9:00:00,New Delhi,Hyderabad,bus,50,New Delhi to Hyderabad
+1279,1,5/5/2024,10:00:00,Mumbai,Kolkata,shuttle,30,Mumbai to Kolkata
+1280,29,5/6/2024,11:00:00,Delhi,Bangalore,bus,50,Delhi to Bangalore
+1281,18,5/7/2024,12:00:00,Hyderabad,Mumbai,shuttle,30,Hyderabad to Mumbai
+1282,51,5/8/2024,13:00:00,Kolkata,Bangalore,bus,50,Kolkata to Bangalore
+1283,2,5/9/2024,14:00:00,New Delhi,Hyderabad,shuttle,30,New Delhi to Hyderabad
+1284,27,5/10/2024,15:00:00,Mumbai,Kolkata,bus,50,Mumbai to Kolkata
+1285,9,5/11/2024,16:00:00,Delhi,Bangalore,shuttle,30,Delhi to Bangalore
+1286,42,5/12/2024,17:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1287,25,5/13/2024,18:00:00,Kolkata,Delhi,shuttle,30,Kolkata to Delhi
+1288,39,5/14/2024,19:00:00,New Delhi,Bangalore,bus,50,New Delhi to Bangalore
+1289,31,5/15/2024,20:00:00,Mumbai,Hyderabad,shuttle,30,Mumbai to Hyderabad
+1290,48,5/16/2024,21:00:00,Delhi,Kolkata,bus,50,Delhi to Kolkata
+1291,22,5/17/2024,22:00:00,Hyderabad,New Delhi,shuttle,30,Hyderabad to New Delhi
+1292,44,5/18/2024,23:00:00,Kolkata,Mumbai,bus,50,Kolkata to Mumbai
+1293,11,5/19/2024,0:00:00,New Delhi,Delhi,shuttle,30,New Delhi to Delhi
+1294,35,5/20/2024,1:00:00,Mumbai,Hyderabad,bus,50,Mumbai to Hyderabad
+1295,16,5/21/2024,2:00:00,Delhi,Kolkata,shuttle,30,Delhi to Kolkata
+1296,49,5/22/2024,3:00:00,Hyderabad,New Delhi,bus,50,Hyderabad to New Delhi
+1297,24,5/23/2024,4:00:00,Kolkata,Mumbai,shuttle,30,Kolkata to Mumbai
+1298,40,5/24/2024,5:00:00,New Delhi,Delhi,bus,50,New Delhi to Delhi
+1299,20,5/25/2024,6:00:00,Mumbai,Hyderabad,shuttle,30,Mumbai to Hyderabad
+1300,47,5/26/2024,7:00:00,Delhi,Kolkata,bus,50,Delhi to Kolkata
+1301,14,5/27/2024,8:00:00,Hyderabad,New Delhi,shuttle,30,Hyderabad to New Delhi
+1302,43,5/28/2024,9:00:00,Kolkata,Mumbai,bus,50,Kolkata to Mumbai
+1303,26,5/29/2024,10:00:00,New Delhi,Delhi,shuttle,30,New Delhi to Delhi
+1304,38,5/30/2024,11:00:00,Mumbai,Hyderabad,bus,50,Mumbai to Hyderabad
+1305,12,5/31/2024,12:00:00,Delhi,Kolkata,shuttle,30,Delhi to Kolkata
+1306,41,6/1/2024,13:00:00,Hyderabad,New Delhi,bus,50,Hyderabad to New Delhi
+1307,28,6/2/2024,14:00:00,Kolkata,Mumbai,shuttle,30,Kolkata to Mumbai
+1308,45,6/3/2024,15:00:00,New Delhi,Delhi,bus,50,New Delhi to Delhi
+1309,10,6/4/2024,16:00:00,Mumbai,Hyderabad,shuttle,30,Mumbai to Hyderabad
+1310,34,6/5/2024,17:00:00,Delhi,Kolkata,bus,50,Delhi to Kolkata
+1311,23,6/6/2024,18:00:00,Hyderabad,New Delhi,shuttle,30,Hyderabad to New Delhi
+1312,37,6/7/2024,19:00:00,Kolkata,Mumbai,bus,50,Kolkata to Mumbai
+1313,21,6/8/2024,20:00:00,New Delhi,Delhi,shuttle,30,New Delhi to Delhi
+1314,32,6/9/2024,21:00:00,Mumbai,Hyderabad,bus,50,Mumbai to Hyderabad
+1315,15,6/10/2024,22:00:00,Delhi,Kolkata,shuttle,30,Delhi to Kolkata
+1316,33,6/11/2024,23:00:00,Hyderabad,New Delhi,bus,50,Hyderabad to New Delhi
+1317,18,6/12/2024,0:00:00,Kolkata,Mumbai,shuttle,30,Kolkata to Mumbai
+1318,25,6/13/2024,1:00:00,Mumbai,Delhi,bus,50,Mumbai to Delhi
+1319,22,6/14/2024,2:00:00,Delhi,Kolkata,shuttle,30,Delhi to Kolkata
+1320,40,6/15/2024,3:00:00,Hyderabad,Mumbai,bus,50,Hyderabad to Mumbai
+1321,29,6/16/2024,4:00:00,Kolkata,New Delhi,shuttle,30,Kolkata to New Delhi
+1322,36,6/17/2024,5:00:00,New Delhi,Delhi,bus,50,New Delhi to Delhi
+1323,14,6/18/2024,6:00:00,Mumbai,Hyderabad,shuttle,30,Mumbai to Hyderabad
+1324,48,6/19/2024,7:00:00,Delhi,Kolkata,bus,50,Delhi to Kolkata
+1325,19,6/20/2024,8:00:00,Hyderabad,New Delhi,shuttle,30,Hyderabad to New Delhi
+1326,31,6/21/2024,9:00:00,Kolkata,Mumbai,bus,50,Kolkata to Mumbai
+1327,26,6/22/2024,10:00:00,New Delhi,Delhi,shuttle,30,New Delhi to Delhi
+1328,39,6/23/2024,11:00:00,Mumbai,Delhi,bus,50,Mumbai to Delhi
